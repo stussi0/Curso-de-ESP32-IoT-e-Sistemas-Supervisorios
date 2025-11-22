@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "libs/jSerialComm-2.9.2.jar"
+    ]
+}
