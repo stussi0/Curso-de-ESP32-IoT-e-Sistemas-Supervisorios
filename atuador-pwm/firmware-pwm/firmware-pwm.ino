@@ -3,7 +3,7 @@
 // use 5000 Hz as a LEDC base frequency
 #define LEDC_BASE_FREQ 5000
 
-#define LED_PIN 4
+#define LED_PIN 2
 
 #define LEDC_START_DUTY  (0)
 #define LEDC_TARGET_DUTY (4095)

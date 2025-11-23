@@ -46,6 +46,7 @@ void loop() {
     myservo.write(i);                  // set the servo position according to the scaled value
     delay(50);                          // wait for the servo to get there
   }
+  delay(2000);
   for(int i = 179; i >= 0; i--){
     myservo.write(i);                  // set the servo position according to the scaled value
     delay(50);                          // wait for the servo to get there
